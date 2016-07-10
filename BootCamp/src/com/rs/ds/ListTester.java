@@ -12,7 +12,7 @@ public class ListTester {
 	 */
 	public static void main(String[] args) {
 
-		String name = "gaurav,shagun,rahul,kitu";
+		String name = "gaurav,shagun,rahul,kitu,aryav";
 		String[] names = name.split(",");
 		for(String name1:names){
 			System.out.println(name1);
